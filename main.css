@@ -1,0 +1,29 @@
+.card {
+    border: 3px solid rgb(20, 112, 97);
+    height: 300px;
+    width: 700px;
+}
+.cardtext {
+    float: right;
+    margin-top: 10px;
+    margin-right: 70px;
+
+}
+.header {
+    font-size: 25px;
+}
+.header_two {
+    font-size: 20px;
+    color: rgb(20, 112, 97);
+}
+.courses {
+    font-size: 15px;;
+    word-wrap: break-word;
+    color: grey;
+}
+.button_twitter {
+    background-color: white;
+    color: black;
+    border: 2px solid #59bae7; 
+    width: 100px;
+  }
